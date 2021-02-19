@@ -22,4 +22,3 @@ objRobot3.print_fullname_person()
 objRobot3.print_fullname_superman()
 
 #fasdfdf
-# recov test
