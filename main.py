@@ -20,3 +20,5 @@ objRobot3.local_name_all = "Phongphat Robot Robot"
 objRobot3.local_surname_all = "Wiwat Robot Robot"
 objRobot3.print_fullname_person()
 objRobot3.print_fullname_superman()
+
+#fasdfdf
